@@ -12,14 +12,14 @@ global.antitags = false;
 //auto functioner
 global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = true;                //make true to enable auto recording
-global.autoviewstatus = false;                 //make true to view statuses 
+global.autoviewstatus = true;                 //make true to view statuses 
 global.anticall = false
 
 
-global.SESSION_ID = process.env.SESSION_ID || ""
-global.Owner = ["2349151864541"]; //like 2347080968564 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "♱MAKINO-MD-V2♱♡⃤";
+global.SESSION_ID = process.env.SESSION_ID || "taira_tech-7t8mFQLb#IeOTCVIp39ZVITMIbmxDbM4WrqehZiK8TvNxzXA5Xl0"
+global.Owner = ["254114127157"]; //like 2347080968564 
+global.OwnerName =  "dave";
+global.BotName = "DAVE MD BOT";
 global.packname = "♱MAKINO-MD-V2♱♡⃤";                             //Do not change.
 global.author = "TAIRA MAKINO";                               //Do not change.
 global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-V2-MD"; //Do not change.
